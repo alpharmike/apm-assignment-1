@@ -2,3 +2,5 @@ data/
 venv/
 .ipynb_checkpoints/
 *.pdf
+output_data/
+output_imgs/
