@@ -1,6 +1,7 @@
-data/
 venv/
-.ipynb_checkpoints/
-*.pdf
+**/.ipynb_checkpoints/
 output_data/
 output_imgs/
+**/*.zip
+**/*.xes
+assignment_2/
